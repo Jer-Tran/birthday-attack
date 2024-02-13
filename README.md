@@ -5,3 +5,5 @@ This is to mostly provide a skeleton of how this type of attack would work. This
 For example, I looks very similar to l, so we try recursive cases to see which results in a longer match.
 
 Be warned, it's performance intensive with this implementation, especially with higher character hit rates
+
+### May be changed to encompass all programs I've personally written to perform security attacks, so may change the structure as a whole in-time
